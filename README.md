@@ -28,13 +28,14 @@ My first class will be MSDS 476, which will be a solid foundation for how to thi
 
 The above image shows the core courses necessary, in addition to MSDS 476. I waived two, so the other 6 are necessary. The **four** electives I am thinking are: 
 - _Analytics Systems Engineering_ (https://sps.northwestern.edu/masters/data-science/curriculum-specializations.php#) **Page not currently avaiable.**
-- _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite, help for the two below**
+- _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the two below,**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
   - _Applied Probability and Simulation Modeling_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4779) 
 - _Data Pipelines and Stream Processing_ (https://sps.northwestern.edu/masters/data-science/curriculum-specializations.php#) **Page not currently avaiable.** **OR** _Financial Machine Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4776). 
 
 Finally, the last step would be a Capstone or Thesis Research project, which would be guided by Learning repository throughout the program of applied research and projects.
 I'll likely pass on one of the above 5 that I'll be able to learn on my own/enroll in later. 
+
 # Interests
 
 Refer to my Learning branch to see project applications. 
