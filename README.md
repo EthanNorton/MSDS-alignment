@@ -23,9 +23,6 @@ Additionally, my statistics background was also waived due to high performance i
 
 My first class will be MSDS 476, which will be a solid foundation for how to think big picture of facilitating improvements, and learn how to integrate more technical learnings throughout the program. 
 
-The depth courses I am planning are Intelligent Systems and Robotics(https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012), as well as 
-
-
 ## Demo of Classes
 ![image](https://github.com/EthanNorton/MSDS-alignment/assets/86625413/f77736ed-e9cb-4da1-b3bc-0fe7756b2767)
 
