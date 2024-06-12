@@ -13,7 +13,6 @@ Program overview: https://catalogs.northwestern.edu/sps/courses-az/graduate/msds
 - [Installation](#installation)
 - [Interests](#projects)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About my Journey in Grad School 
