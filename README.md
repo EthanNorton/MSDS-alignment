@@ -26,14 +26,15 @@ My first class will be MSDS 460, which will be a solid introduction for how to t
 ## Demo of Classes
 ![image](https://github.com/EthanNorton/MSDS-alignment/assets/86625413/f77736ed-e9cb-4da1-b3bc-0fe7756b2767)
 
-The above image shows the core courses necessary, in addition to MSDS 476. I waived two-three, so the other five are necessary. The **six** electives I am thinking are: 
+The above image shows the core courses necessary, in addition to MSDS 476. I waived two-three, so the other five are necessary. The **seven** electives I am thinking are: 
 - _Analytics Systems Engineering_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4774)
 - _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the two below.**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
   - _Applied Probability and Simulation Modeling_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4779) 
 - _Data Pipelines and Stream Processing_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5289) **OR** _Full Stack Data Engineering_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5054).
 - _Analytics Application Engineering_ **Possible 6th course** (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5011)
-Finally, the last step would be a Capstone or Thesis Research project, which would be guided by Learning repository throughout the program of applied research and projects.
+  
+- Finally, the last step would be a Capstone or Thesis Research project, which would be guided by Learning repository throughout the program of applied research and projects.
 
 
 # Interests
