@@ -23,11 +23,11 @@ For MSDS 476, I was waived due to performance in courses regarding: Performance 
 
 
 My **first** class was MSDS 460, which was exteremely relevant. I recommend this be taken early on in the program, as it will lay foundation for deeper classes to come. It was an applied linear programming course, touching into heuristics. This should be a pre-requisite for MSDS 422 in my opinion - Dr. Kline was a great teacher and makes the material interesting, and is very encouraging. The grading was generous. 
-  - **In between this course, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algotithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similiar to here:
+  - **In between this course**, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algorithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similiar to here:
     - ([UIUC IE Advanced Analytics Certificate](https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate)) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. I'm just taking one course at a time.
-- [Convex Optimization UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=859) - perhaps touches and refers directly to Dr. Ozdaglar's work. 
-- [Stochastic Processes Course UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=702) - should provide theoretical understanding of direction I want to go down 
-- [Integer Programming UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=808) - Introduces concepts relating to topics professor showed me, introduces  Combinatorial Optimization and Computational Complexity.
+        - [Convex Optimization UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=859) - perhaps touches and refers directly to Dr. Ozdaglar's work. 
+        - [Stochastic Processes Course UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=702) - should provide theoretical understanding of direction I want to go down 
+        - [Integer Programming UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=808) - Introduces concepts relating to topics professor showed me, introduces  Combinatorial Optimization and Computational Complexity.
 
 My **second** course will be MSDS 420. It is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data.
   
