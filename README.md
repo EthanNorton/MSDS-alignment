@@ -27,7 +27,8 @@ My **first** class was MSDS 460, which was extremely relevant. I recommend this 
     - ([UIUC IE Advanced Analytics Certificate](https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate)) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. I'm just taking one course at a time.
         - [Convex Optimization UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=859) - perhaps touches and refers directly to Dr. Ozdaglar's work. 
         - [Stochastic Processes Course UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=702) - should provide theoretical understanding of direction I want to go down
-          - [How to get into stochastic analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - surprisingly really good outline. 
+          - [How to get into stochastic analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - surprisingly really good outline.
+              - [Sample book on introductory topics](http://euclid.trentu.ca/pivato/Teaching/measure.pdf) 
         - [Integer Programming UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=808) - Introduces concepts relating to topics professor showed me, introduces  Combinatorial Optimization and Computational Complexity.
      
     - Also considering the option of the program here: [Statistics Graduate Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) or [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate), where I could build a could complimentary of the depth courses in the MSDS program. 
