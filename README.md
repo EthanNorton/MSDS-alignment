@@ -47,6 +47,7 @@ The above image shows the core courses necessary, in addition to MSDS 476. I wai
 - _Analytics Systems Engineering_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4774)
 - _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the two below.**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
+    - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf) 
   - _Applied Probability and Simulation Modeling_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4779) 
 - _Data Pipelines and Stream Processing_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5289) **OR** _Full Stack Data Engineering_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5054).
 - _Analytics Application Engineering_ **Possible 6th course** (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5011)
