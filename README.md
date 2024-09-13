@@ -22,7 +22,7 @@ Additionally, my statistics background was also waived due to high performance i
 For MSDS 476, I was waived due to performance in courses regarding: Performance Managements and Business Analytics Introduction (graduate level, simulation intro).
 
 
-My **first** class was MSDS 460, which was extremely relevant. I recommend this be taken early on in the program, as it will lay foundation for deeper classes to come. It was an applied linear programming course, touching into heuristics. This should be a pre-requisite for MSDS 422 in my opinion - Dr. Kline is an amazing professor and makes the material interesting, and is very encouraging. The grading was generous. 
+My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I recommend this be taken early on in the program, as it will lay foundation for deeper classes to come. It was an applied linear programming course, touching into heuristics. This should be a pre-requisite for MSDS 422 in my opinion - Dr. Kline is an amazing professor and makes the material interesting, and is very encouraging. The grading was generous. 
   - **In between this course**, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algorithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similiar to here:
     - ([UIUC IE Advanced Analytics Certificate](https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate)) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. I'm just taking one course at a time.
         - [Convex Optimization UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=859) - perhaps touches and refers directly to Dr. Ozdaglar's work. 
@@ -34,7 +34,10 @@ My **first** class was MSDS 460, which was extremely relevant. I recommend this 
      
     - Also considering the option of the program here: [Statistics Graduate Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) or [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate), where I could build a could complimentary of the depth courses in the MSDS program. 
 
-My **second** course will be MSDS 420. It is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data.
+My **second** course will be MSDS 420 (Fall 2024). It is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data.
+
+My **third** course will be MSDS 434 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. I also wanted to allow ample time to prepare for MSDS 422 (Machine Learning), and will comment some other Math prep I did for that course. 
+  
   
 
 
