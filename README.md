@@ -32,7 +32,7 @@ My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I r
               - [Deeper Stochastic Book](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) 
         - [Integer Programming UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=808) - Introduces concepts relating to topics professor showed me, introduces  Combinatorial Optimization and Computational Complexity.
      
-    - Also considering the option of the program here: [Statistics Graduate Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) or [Artificial Intelligence Graduate Certificate](https://online.stanford.edu/programs/artificial-intelligence-graduate-certificate), where I could build a could complimentary of the depth courses in the MSDS program. 
+    - Also considering the option of the program here: [Statistics Graduate Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) where I could build a could complimentary of the depth courses in the MSDS program. 
 
 My **second** course will be MSDS 420 (Fall 2024). It is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data.
 
