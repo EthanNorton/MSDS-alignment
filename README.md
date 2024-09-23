@@ -36,6 +36,8 @@ My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I r
 
 My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 420 is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data. I do have experience working with databases, so I decided to also enroll in MSDS 485 in this time period. I was able to peak ahead at MSDS 420 and felt comfortable with the balancing workloads here. 
 
+  - Throughout and during this period, I am also reading some books related to devops, exploring functional programming, as well as working on a strong foundation in leetcode problems. 
+
 My **fourth** course will be MSDS 434 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. I also wanted to allow ample time to prepare for MSDS 422 (Machine Learning), and will comment some other Math prep I did for that course. 
   
   
