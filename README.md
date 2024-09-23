@@ -34,9 +34,9 @@ My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I r
      
     - Also considering the option of the program here: [Statistics Graduate Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) where I could build a could complimentary of the depth courses in the MSDS program. 
 
-My **second** course will be MSDS 420 (Fall 2024). It is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data.
+My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 420 is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data. I do have experience working with databases, so I decided to also enroll in MSDS 485 in this time period. I was able to peak ahead at MSDS 420 and felt comfortable with the balancing workloads here. 
 
-My **third** course will be MSDS 434 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. I also wanted to allow ample time to prepare for MSDS 422 (Machine Learning), and will comment some other Math prep I did for that course. 
+My **fourth** course will be MSDS 434 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. I also wanted to allow ample time to prepare for MSDS 422 (Machine Learning), and will comment some other Math prep I did for that course. 
   
   
 
