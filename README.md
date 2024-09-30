@@ -28,7 +28,7 @@ My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I r
               - [Sample book on introductory topics](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
               - [Deeper Stochastic Book](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
       
-          ### Before Machine Learning:
+           ### Before Machine Learning:
         - **Basic optimization** (like [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)): 
           - Basic understanding of how gradient descent works for minimizing loss functions.
   
