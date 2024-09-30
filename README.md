@@ -24,15 +24,32 @@ For MSDS 476, I was waived due to performance in courses regarding: Performance 
 
 My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I recommend this be taken early on in the program, as it will lay foundation for deeper classes to come. It was an applied linear programming course, touching into heuristics. This should be a pre-requisite for MSDS 422 in my opinion - Dr. Kline is an amazing professor and makes the material interesting, and is very encouraging. The grading was generous. 
   - **In between this course**, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algorithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similiar to here:
-    - ([UIUC IE Advanced Analytics Certificate](https://ise.illinois.edu/graduate/degrees-and-programs/advanced-analytics-certificate)) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. I'm just taking one course at a time.
-        - [Convex Optimization UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=859) - perhaps touches and refers directly to Dr. Ozdaglar's work. 
-        - [Stochastic Processes Course UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=702) - should provide theoretical understanding of direction I want to go down
-          - [How to get into stochastic analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - surprisingly really good outline.
+    - ([Statistics Certificate][(https://online.stanford.edu/programs/statistics-graduate-certificate))) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. 
               - [Sample book on introductory topics](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
               - [Deeper Stochastic Book](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf) 
-        - [Integer Programming UIUC, Online Option](https://ws.engr.illinois.edu/courses/getfile.asp?id=808) - Introduces concepts relating to topics professor showed me, introduces  Combinatorial Optimization and Computational Complexity.
-     
-    - Also considering the option of the program here: [Statistics Graduate Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) where I could build a could complimentary of the depth courses in the MSDS program. 
+          ### Before Machine Learning:
+        - **Basic optimization** (like [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)): 
+          - Basic understanding of how gradient descent works for minimizing loss functions.
+  
+        - **Basic calculus** (like [partial derivatives](https://en.wikipedia.org/wiki/Partial_derivative)): 
+          - Important for understanding how to calculate gradients during optimization.
+  
+        - **Basic probability/statistics**: 
+          - Foundational for probabilistic models and uncertainty estimation in [machine learning](https://online.stanford.edu/courses/stats191-introduction-applied-statistics).
+
+        ### Before Deep Learning:
+          - **Numerical optimization** (like [SGD](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)): 
+            -  Essential for handling large datasets and training deep networks, supported by courses like [Statistical Learning and Data Science](https://online.stanford.edu/courses/stats202-statistical-learning-and-data-science).
+  
+          - **Advanced calculus** (like [Jacobians](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant) and [Hessians](https://en.wikipedia.org/wiki/Hessian_matrix)): 
+             - Learn more advanced mathematical concepts in [Introduction to Theoretical Statistics](https://online.stanford.edu/courses/stats200-introduction-theoretical-statistics).
+  
+          - **Non-convex optimization**: Many neural networks have non-convex loss functions, requiring deeper understanding of [optimization methods](https://en.wikipedia.org/wiki/Non-convex_optimization).
+
+      ### Before Simulation:
+        - After ML and DL, focus on **stochastic processes** (like [Markov processes](https://online.stanford.edu/courses/stats217-introduction-stochastic-processes-i)), 
+          - **numerical methods** (e.g., [finite differences](https://en.wikipedia.org/wiki/Finite_difference)), and **optimization theory** for handling constraints and probabilistic models (e.g., [Lagrange multipliers](https://en.wikipedia.org/wiki/Lagrange_multiplier)).
+
 
 My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 420 is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data. I do have experience working with databases, so I decided to also enroll in MSDS 485 in this time period. I was able to peak ahead at MSDS 420 and felt comfortable with the balancing workloads here. 
 
