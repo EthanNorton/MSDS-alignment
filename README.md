@@ -58,7 +58,7 @@ My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 42
 
 My **fourth** course will be MSDS 434 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. I also wanted to allow ample time to prepare for MSDS 422 (Machine Learning), and will comment some other Math prep I did for that course. 
   
-  
+My **fifth** course will be MSDS 422 (Spring 2025). 
 
 
 ## Demo of Classes
