@@ -29,14 +29,11 @@ My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I r
               - [Deeper Stochastic Book](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
       
       ### Before Machine Learning:
-        - **Basic optimization** (like [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)): 
-          - Basic understanding of how gradient descent works for minimizing loss functions.
-  
-        - **Basic calculus** (like [partial derivatives](https://en.wikipedia.org/wiki/Partial_derivative)): 
-          - Important for understanding how to calculate gradients during optimization.
-  
+        - I have taken up to Calc III, Diff EQ, Linear Algebra, Linear Programming, Time Series Analysis - so those areas are covered.
+          
         - **Basic probability/statistics**: 
           - Foundational for probabilistic models and uncertainty estimation in [machine learning](https://online.stanford.edu/courses/stats191-introduction-applied-statistics).
+          - Also need to develop understanding of foundations of Gradient Descent before the course.
 
            ### Before Deep Learning:
           - **Numerical optimization** (like [SGD](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)): 
