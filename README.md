@@ -24,11 +24,11 @@ For MSDS 476, I was waived due to performance in courses regarding: Performance 
 
 My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I recommend this be taken early on in the program, as it will lay foundation for deeper classes to come. It was an applied linear programming course, touching into heuristics. This should be a pre-requisite for MSDS 422 in my opinion - Dr. Kline is an amazing professor and makes the material interesting, and is very encouraging. The grading was generous. 
   - **In between this course**, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algorithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similiar to here:
-    - ([Statistics Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. 
+    - [Statistics Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. 
               - [Sample book on introductory topics](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
               - [Deeper Stochastic Book](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
       
-            ### **Before Machine Learning:**
+      ### Before Machine Learning:
         - **Basic optimization** (like [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)): 
           - Basic understanding of how gradient descent works for minimizing loss functions.
   
