@@ -53,9 +53,9 @@ My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 42
 
   - Throughout and during this period, I am also reading some books related to devops, exploring functional programming, as well as working on a strong foundation in leetcode problems. I experienced a mental health setback, so I am dialing back down to one and will push back the statistics studies for awhile.
 
-My **fourth** course will be MSDS 434 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. I also wanted to allow ample time to prepare for MSDS 422 (Machine Learning), and will comment some other Math prep I did for that course. 
+My **fourth** course will be MSDS 434 or MSDS 422 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. 
   
-My **fifth** course will be MSDS 422 (Spring 2025). 
+
 
 
 ## Demo of Classes
@@ -63,15 +63,13 @@ My **fifth** course will be MSDS 422 (Spring 2025).
 
 
 
-The above image shows the core courses necessary, in addition to MSDS 476. I waived three, so the other five are necessary. The **seven** electives I am thinking are: 
-- _Analytics Systems Engineering_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4774)
+The above image shows the core courses necessary, in addition to MSDS 476. I waived two, so the other five are necessary. The **five** electives I am thinking are: 
+-__Marketing Analytics_ **or** _Time Series Analysis_[(https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4768)]
 - _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the two below.**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
     - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf) 
-  - _Applied Probability and Simulation Modeling_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4779) 
-- _Data Pipelines and Stream Processing_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5289) **OR** _Full Stack Data Engineering_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5054).
-- _Analytics Application Engineering_ **Possible 6th course** (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5011)
-- The seventh course will be most related to understanding edge computing.
+  - _Applied Probability and Simulation Modeling_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4779)
+-__Cloud Computing_[https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5011]
   
 - Finally, the last step would be a Thesis Research project, which would be guided by Learning repository throughout the program of applied research and projects.
 
