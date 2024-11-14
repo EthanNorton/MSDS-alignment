@@ -23,7 +23,7 @@ For MSDS 476, I was waived due to performance in courses regarding: Performance 
 
 
 My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I recommend this be taken early on in the program, as it will lay foundation for deeper classes to come. It was an applied linear programming course, touching into heuristics. This should be a pre-requisite for MSDS 422 in my opinion - Dr. Kline is an amazing professor and makes the material interesting, and is very encouraging. The grading was generous. 
-  - **In between this course**, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algorithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similiar to here:
+  - **In between this course**, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algorithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similar to here:
     - [Statistics Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. 
               - [Sample book on introductory topics](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
               - [Deeper Stochastic Book](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
@@ -49,11 +49,11 @@ My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I r
           - **numerical methods** (e.g., [finite differences](https://en.wikipedia.org/wiki/Finite_difference)), and **optimization theory** for handling constraints and probabilistic models (e.g., [Lagrange multipliers](https://en.wikipedia.org/wiki/Lagrange_multiplier)).
 
 
-My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 420 is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data. I do have experience working with databases, so I decided to also enroll in MSDS 485 in this time period. I was able to peak ahead at MSDS 420 and felt comfortable with the balancing workloads here. 
+My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 420 is a prerequisite for some other courses, and should give a solid introduction for accessing, organizing, and structuring data. I do have experience working with databases, so I decided to also enroll in MSDS 485 in this time period. I was able to peak ahead at MSDS 420 and felt comfortable with the balancing workloads here.
 
   - Throughout and during this period, I am also reading some books related to devops, exploring functional programming, as well as working on a strong foundation in leetcode problems. I experienced a mental health setback, so I am dialing back down to one and will push back the statistics studies for awhile.
 
-My **fourth** course will be MSDS 434 or MSDS 422 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. 
+My **fourth** course will be MSDS 434 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it to roles. 
   
 
 
