@@ -27,7 +27,7 @@ My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I r
     - [Statistics Certificate](https://online.stanford.edu/programs/statistics-graduate-certificate) is an additional path I am considering before the Thesis, to get a deeper understanding of the theory. 
               - [Sample book on introductory topics](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
               - [Deeper Stochastic Book](https://web.ma.utexas.edu/users/gordanz/notes/introduction_to_stochastic_processes.pdf)
-              -[Book on Applications to Robotics, a potential path to go down](https://www.roboticsbook.org/intro.html)
+              - [Book on Applications to Robotics, a potential path to go down](https://www.roboticsbook.org/intro.html)
       
       ### Before Machine Learning:
         - I have taken up to Calc III, Diff EQ, Linear Algebra, Linear Programming, Time Series Analysis - so those areas are covered.
