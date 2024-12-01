@@ -56,11 +56,10 @@ My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 42
 
 My **fourth** and **fifth** courses will be MSDS 434 and MSDS 422 (Winter 2025). I reached out before the Fall to prepare a bit, and think of how to apply it in the company I work for (OSM Worldwide). I am excited for these courses, and also will use them to build into my thesis idea, Stochastic Markov Decision Processes for energy micogrids. I will also thoroughly read Reinforcement Learning textbooks during this time.
 
-- Focus areas for 422: Stochastic gradient descent, markov chains, gradient descent, and the math behind it all.
-
 - Focus areas for 434: Applying it to my job, understanding the visuals, and Infrastructure as Code (IaC). Possible AWS Architect cert in this process as well. 
   
 
+- Focus areas for 422: Stochastic gradient descent, markov chains, gradient descent, and the math behind it all.
 
 
 ## Demo of Classes
