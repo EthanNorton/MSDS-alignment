@@ -63,7 +63,8 @@ My **fourth** and **fifth** courses will be MSDS 434 and MSDS 422 (Winter 2025).
 
 
 ## Demo of Classes
-![image](https://github.com/user-attachments/assets/6ce0f881-9a6b-43b2-96d6-0c9664edf7f7)
+![image](https://github.com/user-attachments/assets/42f11228-fd4a-4138-bfbb-8fd67109f103)
+
 
 
 
