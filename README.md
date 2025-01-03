@@ -68,8 +68,8 @@ My **fourth** and **fifth** courses will be MSDS 434 and MSDS 422 (Winter 2025).
 
 
 
-The above image shows the core courses necessary, in addition to MSDS 476. I waived two, so the other five are necessary. The **five** electives I am thinking are: 
-- _Marketing Analytics_ **or** _Time Series Analysis_[(https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4768)]
+The above image shows the core courses necessary, in addition to MSDS 476. I waived two, so the other five are necessary. The **six** electives I am thinking are: 
+- _Marketing Analytics_ , _Financial Machine Learning_  **or** _Time Series Analysis_[(https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4768)]
 - _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the two below.**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
     - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf) 
