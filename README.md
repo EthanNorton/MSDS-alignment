@@ -54,7 +54,7 @@ My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 42
 
   - Throughout and during this period, I am also reading some books related to devops, exploring functional programming, as well as working on a strong foundation in leetcode problems. I experienced a mental health setback, so I am dialing back down to one and will push back the statistics studies for awhile.
 
-My **fourth** courses will be  MSDS 422 (Winter 2025). I am excited for theis course, and also will use them to build into my thesis idea, Stochastic Markov Decision Processes for energy micogrids. I will also thoroughly read Reinforcement Learning textbooks during this time.
+My **fourth** courses will be  MSDS 422 (Winter 2025). This course I worked with a great team, made some friends, and worked on various projects hands on, mostly Kaggle related. 
 
 - Focus areas for 422: Stochastic gradient descent, markov chains, gradient descent, and the math behind it all.
   - Textbooks Read:
