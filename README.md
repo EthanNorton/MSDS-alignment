@@ -54,7 +54,7 @@ My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 42
 
   - Throughout and during this period, I am also reading some books related to devops, exploring functional programming, as well as working on a strong foundation in leetcode problems. I experienced a mental health setback, so I am dialing back down to one and will push back the statistics studies for awhile.
 
-My **fourth** courses will be  MSDS 422 (Winter 2025). This course I worked with a great team, made some friends, and worked on various projects hands on, mostly Kaggle related.
+My **fourth** courses was MSDS 422 (Winter 2025). This course I worked with a great team, made some friends, and worked on various projects hands on, mostly Kaggle related.
 
 My **fifth** and **sixth** courses were built around the business side of the Program. I enrolled MSDS 474 (Accounting and Finance for Technology Managers) as well as MSDS 472, Management Consulting in (Spring 2025). 
 
