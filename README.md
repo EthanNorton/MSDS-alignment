@@ -74,7 +74,7 @@ My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Sum
 
 The above image shows the core courses necessary, in addition to MSDS 476. I waived two, so the other five are necessary. The **six** electives I am thinking are: 
 - _Supervised Learning_ and _Unsupervised Learning_ 
-- _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the two below.**
+- _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the course below.**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
     - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf) 
 - I ended up taking Management Consulting and Accounting and Finance for Technology managers as well, to consider a pivot.
