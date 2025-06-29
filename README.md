@@ -73,14 +73,13 @@ My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Sum
 
 
 The above image shows the core courses necessary, in addition to MSDS 476. I waived two, so the other five are necessary. The **six** electives I am thinking are: 
-- _Marketing Analytics_ , _Financial Machine Learning_  **or** _Time Series Analysis_[(https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4768)]
+- _Supervised Learning_ and _Unsupervised Learning_ 
 - _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the two below.**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
     - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf) 
-  - _Applied Probability and Simulation Modeling_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4779)
-- _Cloud Computing_ [https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5011] 
+- I ended up taking Management Consulting and Accounting and Finance for Technology managers as well, to consider a pivot.
   
-- Finally, the last step would be a Thesis Research project, which would be guided by Learning repository throughout the program of applied research and projects.
+- Finally, the last step would be a Capstone project, which would be guided by Learning repository throughout the program of applied research and projects.
 
 
 # Interests
