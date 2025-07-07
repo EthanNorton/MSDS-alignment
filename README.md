@@ -9,18 +9,15 @@ Program overview: https://catalogs.northwestern.edu/sps/courses-az/graduate/msds
 
 - [About](#about)
 - [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
 - [Interests](#projects)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
+  
+# About 
 ## About my Journey in Grad School 
 
 I was waived from MSDS 400, 401, and 476 due to adequate substitute courses. I enrolled in multiple algorithms courses, and earned an A at UIUC's CS 401.
 Additionally, my statistics background was also waived due to high performance in: Time Series Analysis, Applied Econometrics, and another statistical equivalance of Econometrics from computational side. 
 For MSDS 476, I was waived due to performance in courses regarding: Performance Managements and Business Analytics Introduction (graduate level, simulation intro).
-
+- Therefore, I need to complete **eleven** courses.
 
 My **first** class was MSDS 460 (Summer 2024), which was extremely relevant. I recommend this be taken early on in the program, as it will lay foundation for deeper classes to come. It was an applied linear programming course, touching into heuristics. This should be a pre-requisite for MSDS 422 in my opinion - Dr. Kline is an amazing professor and makes the material interesting, and is very encouraging. The grading was generous. 
   - **In between this course**, I spoke with a professor in the PhD program, and realized that there will be a need to go deeper into the theoretical frameworks to truly understand and build original algorithms. I don't believe leet coding will be sufficient, so I am planning on enrolling in a bundle of theoretical courses, similar to here:
@@ -56,16 +53,22 @@ My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 42
 
 My **fourth** courses was MSDS 422 (Winter 2025). This course I worked with a great team, made some friends, and worked on various projects hands on, mostly Kaggle related.
 
-My **fifth** and **sixth** courses were built around the business side of the Program. I enrolled MSDS 474 (Accounting and Finance for Technology Managers) as well as MSDS 472, Management Consulting in (Spring 2025). 
-
-My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Summer 2025). 
-
 - Focus areas for 422: Stochastic gradient descent, markov chains, gradient descent, and the math behind it all.
   - Textbooks Read:
     - [An introduction to statistical learning](https://www.statlearning.com/)
     - [The elements of statistical learning](https://hastie.su.domains/ElemStatLearn/) 
 
+My **fifth** and **sixth** courses were built around the business side of the Program. I enrolled MSDS 474 (Accounting and Finance for Technology Managers) as well as MSDS 472, (Management Consulting) in (Spring 2025). 
 
+My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Summer 2025).
+
+After this class, I will take a break and take a probability course at Stanford. 
+
+My **eight** and **ninth** classes wil be Supervised and Unsupervised Learning and Supervised Learning, to be taken in Winter of 2026.  
+
+My **tenth** and **eleventh** class will be the Thesis/Capstone option, to be taken in Spring of 2026. 
+
+# Demo
 ## Demo of Classes
 ![image](https://github.com/user-attachments/assets/42f11228-fd4a-4138-bfbb-8fd67109f103)
 
@@ -83,6 +86,6 @@ The above image shows the core courses necessary, in addition to MSDS 476. I wai
 - Finally, the last step would be a Thesis Research project, which would be guided by Learning repository throughout the program of applied research and projects.
 
 
-# Interests
+# Projects
 
-Refer to my Learning branch to see project applications. 
+Refer to my Learning branch, or individual branches in this repo to see project applications. 
