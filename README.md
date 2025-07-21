@@ -81,7 +81,6 @@ The above image shows the core courses necessary, in addition to MSDS 476. I wai
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
     - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf) 
   - _Applied Probability and Simulation Modeling_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4779)
-- _Cloud Computing_ [https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5011] 
   
 - Finally, the last step would be a Thesis Research project, which would be guided by Learning repository throughout the program of applied research and projects.
 
