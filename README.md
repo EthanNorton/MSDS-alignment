@@ -5,16 +5,6 @@ There will be a seperate branch for the specific course, which I will share the 
 
 Program overview: https://catalogs.northwestern.edu/sps/courses-az/graduate/msds/
 
-## Table of Contents
-
-- [About](#about)
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Interests](#projects)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## About my Journey in Grad School 
 
 I was waived from MSDS 400, 401, and 476 due to adequate substitute courses. I enrolled in multiple algorithms courses, and earned an A at UIUC's CS 401.
