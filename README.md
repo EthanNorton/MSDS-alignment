@@ -54,11 +54,11 @@ My **second** and **third** course will be MSDS 420 and MSDS 485 (Fall 2024). 42
 
   - Throughout and during this period, I am also reading some books related to devops, exploring functional programming, as well as working on a strong foundation in leetcode problems. I experienced a mental health setback, so I am dialing back down to one and will push back the statistics studies for awhile.
 
-My **fourth** courses was MSDS 422 (Winter 2025). This course I worked with a great team, made some friends, and worked on various projects hands on, mostly Kaggle related.
+My **fourth** courses was MSDS 422 (Winter 2025). This course I worked with a great team, made some friends, and worked on various projects hands on, mostly Kaggle related. This course introduced parameter tuning, learning rates, various neural networks, and applications to loading, feature engineering, and various data sets. 
 
 My **fifth** and **sixth** courses were built around the business side of the Program. I enrolled MSDS 474 (Accounting and Finance for Technology Managers) as well as MSDS 472, Management Consulting in (Spring 2025). 
 
-My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Summer 2025). 
+My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Summer 2025). The class is a deep dive into all types of Neural Networks. My project for the class has been on EIA dataset, where I discuss it deeper into the branch, [here](https://github.com/EthanNorton/MSDS-alignment/tree/MSDS-458). 
 
 - Focus areas for 422: Stochastic gradient descent, markov chains, gradient descent, and the math behind it all.
   - Textbooks Read:
