@@ -1,6 +1,6 @@
 # 📈 Deepening Foundations for CMU MSML: From Stochastic Optimization to Temporal Reasoning
 
-This document outlines key **concepts, articles, and growth areas** to master for a strong foundation in **deep learning**, **stochastic optimization**, **Markov Decision Processes**, and **temporal difference learning**, aligned with the research and applied focus of the [CMU MSML Program](https://www.ml.cmu.edu/academics/ms-in-machine-learning.html).
+This document outlines key **concepts, articles, and growth areas** to master for a strong foundation in **deep learning**, **stochastic optimization**, **Markov Decision Processes**, and **temporal difference learning**, aligned with the research and applied focus of the [CMU MSML Program](https://ml.cmu.edu/academics/machine-learning-masters-curriculum).
 
 ---
 
