@@ -55,6 +55,8 @@ My **fifth** and **sixth** courses were built around the business side of the Pr
 
 My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Summer 2025). The class is a deep dive into all types of Neural Networks. My project for the class has been on EIA dataset, where I discuss it deeper into the branch, [here](https://github.com/EthanNorton/MSDS-alignment/tree/MSDS-458). 
 
+This class has been really amazing so far. To build deeper than the project, I'm also growing and implementing project areas for next steps in my career,[here](https://github.com/EthanNorton/MSDS-alignment/blob/MSDS-458/growth-areas.md). 
+
 
 
 ## Demo of Classes
