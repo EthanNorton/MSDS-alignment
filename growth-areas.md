@@ -33,11 +33,13 @@ To align with this vision, this roadmap builds on areas like:
   - Adaptive vs non-adaptive learning
   - Large batch vs small batch behavior
   - Non-convex loss surface exploration
+  - Deep ensembles and gradient variance tracking
+  - Multi-seed evaluation as a stochastic stability benchmark
 
 - **Recommended Reading**
   - 📄 [Understanding the Difficulty of Training Deep Feedforward Neural Networks (Glorot & Bengio, 2010)](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
   - 📄 [The Marginal Value of Adaptive Gradient Methods in Machine Learning (Wilson et al., 2017)](https://arxiv.org/abs/1705.08292)
-  - More to be added here 
+
 ---
 
 ### 2. **Convex & Non-Convex Optimization**
@@ -50,11 +52,13 @@ To align with this vision, this roadmap builds on areas like:
 
 - **Recommended Courses**
   - Stanford CS109 - Probability [To be taken Fall 2025]. 
+  - EE364a (Convex Optimization) by Stephen Boyd
 
 - **Growth Areas**
   - Second-order methods vs first-order
   - Constraint-aware training
   - Optimization in high dimensions
+  - Analysis of loss surface curvature and optimization plateaus
 
 ---
 
@@ -68,7 +72,7 @@ To align with this vision, this roadmap builds on areas like:
 
 - **Growth Areas**
   - Implicit regularization in gradient descent
-  - Deep ensemble learning
+  - Deep ensemble learning for uncertainty calibration
   - Transformer inductive biases
 
 - **Articles**
@@ -93,6 +97,9 @@ To align with this vision, this roadmap builds on areas like:
   - Exploration-exploitation trade-offs
   - Temporal abstraction and options
 
+**🔍 Connection to Paper:**  
+Consider modeling **grid interaction as a decision-making problem**—i.e., how pricing or consumption incentives could be framed as an MDP. This sets the stage for your RL expansion in future work.
+
 ---
 
 ### 5. **Temporal Modeling & Sequential Learning**
@@ -103,10 +110,12 @@ To align with this vision, this roadmap builds on areas like:
   - Temporal convolutions (TCNs)
   - Attention over time, transformers for time series
 
-- **Suggested Projects**
+- **Projects**
   - Energy forecasting with LSTM + seasonal weighting (already started)
   - TCN vs LSTM comparison
   - Bayesian RNNs (MC Dropout)
+  - Use of attention weights to analyze peak-demand periods
+
 
 ---
 
@@ -114,18 +123,22 @@ To align with this vision, this roadmap builds on areas like:
 
 | Phase | Focus | Action Items |
 |-------|-------|--------------|
-| **Now** | Stabilize stochastic training | Run Optuna-based tuning across seeds |
-| **Next 1–2 months** | Theory & reproducibility | Work through EE364a + implement convex constraint project |
+| **Now** | Stabilize stochastic training | Run Optuna-based tuning across seeds; compare Adam vs SGD |
+| **Next 1–2 months** | Theory & reproducibility | Work through CS109 + replicate loss surface studies |
 | **Fall** | Reinforcement Learning core | Finish Sutton & Barto, implement SARSA / TD(λ) |
 | **Ongoing** | Research alignment | Follow CMU MSML faculty publications on RL, optimization, and theory |
+| **Optional** | Generalization analysis | Explore overparameterization, implicit bias, and double descent |
 
 ---
 
 ## 📂 GitHub Integration
 
 Projects and study areas to be added: 
-- `stochastic_optimization/`
-- `deep_rl_td_learning/`
-- `temporal_learning/`
+- `stochastic_optimization/` – with seed tuning + optimizer experiments
+- `deep_rl_td_learning/` – with SARSA and TD(λ) baselines
+- `temporal_learning/` – with Fourier LSTM, TCNs, and MC Dropout models
 
-
+Each project folder should contain:
+- `notebooks/` with annotated training pipelines
+- `notes/` with theoretical interpretations
+- `plots/` for reproducibility and variance tracking
