@@ -53,10 +53,11 @@ My **fourth** courses was MSDS 422 (Winter 2025). This course I worked with a gr
 
 My **fifth** and **sixth** courses were built around the business side of the Program. I enrolled MSDS 474 (Accounting and Finance for Technology Managers) as well as MSDS 472, Management Consulting in (Spring 2025). 
 
-My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Summer 2025). The class is a deep dive into all types of Neural Networks. My project for the class has been on EIA dataset, where I discuss it deeper into the branch, [here](https://github.com/EthanNorton/MSDS-alignment/tree/MSDS-458). 
+My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Summer 2025). The class is a deep dive into all types of Neural Networks. My project for the class has been on EIA dataset, where I discuss it deeper into the branch, [here](https://github.com/EthanNorton/MSDS-alignment/tree/MSDS-458). I did an LSTM project, for a dataset from the EIA, which is in the same link as <------, and can be read and summarized this. This project measured random seed variability, SARIMA summer encoded months. 
 
-This class has been really amazing so far. To build deeper than the project, I'm also growing and implementing project areas for next steps in my career,[here](https://github.com/EthanNorton/MSDS-alignment/blob/MSDS-458/growth-areas.md). 
+This class was amazing and introduced many types of deep learning. To build deeper than the project, I'm also growing and implementing project areas for next steps in my career,[here](https://github.com/EthanNorton/MSDS-alignment/blob/MSDS-458/growth-areas.md). 
 
+My **seventh** and **eighth** classes will be the [Thesis project](https://sps.northwestern.edu/masters/data-science/thesis-capstone.html), and [Natural Language Processing](https://class-descriptions.northwestern.edu/5000/UC/MSDS/19072).My current research project is built around one of my main interests, the alignment problem. I am working on a dataset from [Kaggle](https://www.kaggle.com/datasets/thedevastator/helpsteer-ai-alignment-dataset), which is AI alignment, and will line up with research into potentially the next grad school. 
 
 
 ## Demo of Classes
@@ -66,13 +67,14 @@ This class has been really amazing so far. To build deeper than the project, I'm
 
 
 The above image shows the core courses necessary, in addition to MSDS 476. I waived two, so the other five are necessary. The **six** electives I am thinking are: 
-- _Supervised Learning_ and _Unsupervised Learning_ 
+- _Natural Language Processing_ (https://class-descriptions.northwestern.edu/5000/UC/MSDS/19072)
 - _Artificial Intelligence and Deep Learning_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4783) **pre-requisite and enabling to deeper into the course below.**
   - _Intelligent Systems and Robotics_ (https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=5012)
-    - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf) 
+    - Pre-reading this textbook in advance [Distributed Processing - Overlapping Topics](http://web.stanford.edu/group/pdplab/pdphandbook/handbook.pdf)
+  - _Applied Probability and Simulation Modeling_ (https://class-descriptions.northwestern.edu/4940/UC/MSDS/37722)
 - I ended up taking Management Consulting and Accounting and Finance for Technology managers as well, to consider a pivot.
   
-- Finally, the last step would be a Capstone project, which would be guided by Learning repository throughout the program of applied research and projects.
+- Finally, the last step would be a Capstone project, which is on LSTM model impacting an energy dataset. 
 
 
 # Interests
