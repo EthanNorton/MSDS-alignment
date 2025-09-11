@@ -58,6 +58,7 @@ My **seventh** class is MSDS 458, Artificial Intelligence and Deep Learning (Sum
 This class was amazing and introduced many types of deep learning. To build deeper than the project, I'm also growing and implementing project areas for next steps in my career,[here](https://github.com/EthanNorton/MSDS-alignment/blob/MSDS-458/growth-areas.md). 
 
 My **eighth** and **ninth** classes will be the [Thesis project](https://sps.northwestern.edu/masters/data-science/thesis-capstone.html), and [Natural Language Processing](https://class-descriptions.northwestern.edu/5000/UC/MSDS/19072).My current research project is built around one of my main interests, the alignment problem. I am working on a dataset from [Kaggle](https://www.kaggle.com/datasets/thedevastator/helpsteer-ai-alignment-dataset), which is AI alignment, and will line up with research into potentially the next grad school. 
+ - I was also inspired by this [paper](https://github.com/shcen/shcen.github.io/blob/master/assets/files/llm_election.pdf) and used it strongly as a baseline for my studies.
 
 
 ## Demo of Classes
