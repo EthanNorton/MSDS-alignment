@@ -4,7 +4,7 @@ This repository explores the intersection of **AI accountability frameworks**, *
 
 It is motivated by:
 - Global AI policies and ethical guidelines (see [AI accountability opportunities](#many-opportunities-in-ai-accountability)).
-- Recent research on **AI bias during elections**, such as [Cen et al. (2024), *Large-Scale, Longitudinal Study of LLMs During the 2024 U.S. Election Season*](https://github.com/shcen/shcen.github.io/blob/master/assets/files/llm_election.pdf).
+- Recent research on **AI bias during elections**, such as [Cen et al. (2025), *Large-Scale, Longitudinal Study of LLMs During the 2024 U.S. Election Season*](https://github.com/shcen/shcen.github.io/blob/master/assets/files/llm_election.pdf).
 - Work on **strategic behavior and reward hacking** in AI systems (see [Amodei et al. 2016, "Concrete Problems in AI Safety"](https://arxiv.org/abs/1606.06565); [Krueger et al. 2020, "Hidden Incentives for Autonomy"](https://arxiv.org/abs/2011.05003)).
 - Empirical experiments with word–score associations from the provided dataset (`helpsteer_word_associations.ipynb`).
 
