@@ -119,6 +119,6 @@ The CI workflow runs:
 - pipeline lint/smoke checks (extendable),
 - gatekeeping before merge.
 
-This gives you an interview-ready narrative:
 
-> "I built an RL project as a platform system with Spark ingestion, medallion-style transformations, reproducible experiments, and CI-driven quality controls, designed for Databricks execution."
+## Summary 
+I built an RL project as a platform system with Spark ingestion, medallion-style transformations, reproducible experiments, and CI-driven quality controls, designed for Databricks execution.
